@@ -1,4 +1,12 @@
-## Hi there 👋
+Hi there! I’m currently a learner in the ALX Front-End Development program, and I’m passionate about creating meaningful digital experiences that are both visually engaging and user-centered.
+
+✨ This is why I started with software engineering: I’ve always been inspired by the way technology can solve problems, tell stories, and empower people—especially in underrepresented communities. Front-end development stood out to me because it brings creativity and logic together to build real, interactive solutions that people can actually see, feel, and use.
+
+🎯 My aim is to become a skilled and creative front-end developer who builds responsive, accessible, and impactful web applications. I want to grow by collaborating on projects that challenge me, push my learning, and ultimately make a positive difference in people’s lives. As I develop professionally, I also hope to give back by mentoring others who are beginning their journey in tech.
+
+💡 That’s why I would like to work on projects that focus on inclusive design, community empowerment, and meaningful user experiences—from portfolio websites and web apps for local businesses, to platforms that support social causes, education, or women in tech. I'm especially drawn to projects that promote access, growth, and innovation.
+
+📌 I’m currently building up my project portfolio here on GitHub—feel free to explore, connect, or collaborate!
 
 <!--
 **Nokwanda-spec/Nokwanda-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +14,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- c...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
